@@ -1,0 +1,48 @@
+{
+  "title": "Oracle Database Developer (m/f/d)",
+  "seniority": "Senior",
+  "languages": {
+    "English": "C1 Advanced"
+  },
+  "location": {
+    "country": "Germany",
+    "city": "Munich",
+    "work_model": "Hybrid"
+  },
+  "company": {
+    "name": "Eufomex",
+    "industry": "Consulting",
+    "sector": "Data Management, Financial Services",
+    "about": "Eufomex is a consulting firm offering Data Management services for top-tier financial institutions in Germany and the DACH region. The company supports relocation and values professional growth and work-life balance."
+  },
+  "tasks": [
+    "Work on installation and administration of Oracle and Microsoft SQL Server databases",
+    "Administer and maintain data integrity and security of servers",
+    "Perform regular maintenance tasks such as patches and updates",
+    "Document SQL Server configurations, backup and recovery strategies, and operational procedures"
+  ],
+  "skills_required": {
+    "experience": {
+      "banking_experience": "More than 5 years",
+      "oracle_development": "5+ years",
+      "sql_server_administration": "Experience with installation and administration",
+      "data_modeling_warehousing": "Experience with data modeling and data warehousing",
+      "oracle_data_guard": "Experience using Oracle Data Guard",
+      "sql_pl_sql": "Advanced SQL (DML, DDL) and PL/SQL knowledge",
+      "performance_optimization": "Proven ability to optimize PL/SQL code and queries",
+      "financial_sector_experience": "Experience working in Financial institutions (Banks, Insurance, Asset Management)"
+    },
+    "education": "University degree in Computer Science, Finance, Mathematics, Physics, or a related quantitative field",
+    "communication": "Excellent English verbal and written skills"
+  },
+  "skills_desired": {
+    "oracle_recovery_manager": "Experience with Oracle Recovery Manager (RMAN)",
+    "hadoop_experience": "2+ years of professional experience with Hadoop and related products",
+    "cloud_providers": ["AWS", "Azure", "GCP"],
+    "devops_tools": ["GitHub/GitLab", "Jira", "Confluence"],
+    "certifications": ["AWS", "Azure", "GCP"],
+    "languages": {
+      "German": "Fluent (optional)"
+    }
+  }
+}

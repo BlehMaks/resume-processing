@@ -1,0 +1,44 @@
+{
+  "title": "Business Analyst (m/f/d)",
+  "seniority": "Senior",
+  "languages": {
+    "English": "C1 Advanced"
+  },
+  "location": {
+    "country": "Germany",
+    "city": "Munich",
+    "work_model": "Hybrid"
+  },
+  "company": {
+    "name": "Eufomex",
+    "industry": "Consulting",
+    "sector": "Data Management, Financial Services",
+    "about": "Eufomex is a consulting firm focused on Data Management services for financial institutions in Germany and the DACH region. We value work-life balance and support relocation for international candidates."
+  },
+  "tasks": [
+    "Interact with stakeholders to understand their needs, challenges, and goals",
+    "Analyze existing business processes to identify opportunities for improvement",
+    "Gather requirements and document them clearly",
+    "Ensure project delivery on time"
+  ],
+  "skills_required": {
+    "experience": {
+      "banking_experience": "More than 5 years",
+      "business_requirements": "Proficient in transforming business requirements into technical solution designs",
+      "data_analysis": "Ability to analyze large amounts of data and business processes",
+      "financial_sector": "5+ years",
+      "technical_skills": "Strong understanding of databases, reporting, and data analysis",
+      "big_data": "General knowledge of BigData, Hadoop, and ETL processes",
+      "tools_methods": ["SQL", "MS Excel", "Jira", "Confluence", "Agile", "SAFe", "Scrum"]
+    },
+    "education": "University degree in Business Administration or Quantitative Science (Computer Science, Finance, Mathematics, Physics, or related field)",
+    "communication": "Strong leadership skills and excellent English verbal and written communication skills"
+  },
+  "skills_desired": {
+    "cloud_providers": ["AWS", "Azure", "GCP"],
+    "certifications": ["AWS", "Azure", "GCP"],
+    "languages": {
+      "German": "Fluent (optional)"
+    }
+  }
+}

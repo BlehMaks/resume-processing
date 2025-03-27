@@ -1,0 +1,48 @@
+{
+  "title": "Data Engineer (m/f/d)",
+  "seniority": "Senior",
+  "languages": {
+    "English": "C1 Advanced"
+  },
+  "location": {
+    "country": "Germany",
+    "city": "Munich",
+    "work_model": "Hybrid"
+  },
+  "company": {
+    "name": "Eufomex",
+    "industry": "Consulting",
+    "sector": "Data Management, Financial Services",
+    "about": "Eufomex is a consulting firm providing high-quality Data Management services to top-tier financial institutions across Germany and the DACH region. The firm values professional development and work-life balance, offering support for international candidates relocating to Germany."
+  },
+  "tasks": [
+    "Work with large volumes of data to derive insights",
+    "Design and implement suitable data structures for complex service data",
+    "Develop Data Warehouse solutions and maintain data integrity and quality",
+    "Collaborate with cross-functional teams to gather requirements and set project objectives"
+  ],
+  "skills_required": {
+    "experience": {
+      "banking_experience": "More than 5 years",
+      "etl_di": "5+ years of relevant experience in ETL/DI",
+      "database_technologies": "5+ years of experience with various database technologies",
+      "financial_sector": "5+ years of experience in the financial sector",
+      "sql": "Advanced SQL skills for complex query writing and optimization",
+      "data_programming_languages": ["SQL", "Python", "Big Data", "Hadoop"],
+      "data_warehousing_architectures": ["Public Cloud", "LakeHouse", "Data Lake", "Data Warehouse", "Data Mart"],
+      "system_integration": ["APIs", "MQ", "FTP"]
+    },
+    "education": "University degree in Computer Science, Finance, Mathematics, Physics, or a related quantitative field",
+    "communication": "Excellent English verbal and written communication skills"
+  },
+  "skills_desired": {
+    "cloud_providers": ["AWS", "Azure", "GCP"],
+    "shell_scripting": "Proficiency in shell scripting within Linux/UNIX environments",
+    "devops_tools": ["GitHub/GitLab", "Jira", "Confluence"],
+    "big_data_frameworks": ["PySpark"],
+    "certifications": ["AWS", "Azure", "GCP"],
+    "languages": {
+      "German": "Fluent (optional)"
+    }
+  }
+}
